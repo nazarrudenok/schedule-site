@@ -1,0 +1,27 @@
+@media (max-width: 480px) {
+    body {
+        padding: 0 12.5px;
+    }
+    
+    .title-text {
+        font-size: 30px;
+    }
+
+    img {
+        width: 22.5px;
+        height: 22.5px;
+    }
+
+    .days-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .day-cont {
+        margin: 10px 0px 0px 0px;
+    }
+
+    .lessons-container {
+        padding: 7px;
+    }
+}
