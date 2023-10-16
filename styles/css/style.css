@@ -67,6 +67,10 @@ body {
     color: #d1ed24;
 }
 
+.title-group {
+    color: #d1ed24;
+}
+
 .date-container {
     display: flex;
     justify-content: flex-end;
