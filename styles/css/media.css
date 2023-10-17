@@ -21,6 +21,10 @@
         margin: 10px 0px 5px 0px;
     }
 
+    .day-cont:nth-child(6) {
+        margin-bottom: 10px;
+    }
+
     .lessons-container {
         padding: 7px;
     }
