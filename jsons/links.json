@@ -1,0 +1,75 @@
+{
+    "Алгебра": {
+        "url": "https://us04web.zoom.us/j/79403588169?pwd=34Qtubu2fWr0LZXOWXLDSsVlhgKovL.1",
+        "type": "Zoom"
+    },
+    "Англійська мова": {
+        "url": "https://us04web.zoom.us/j/2857146371?pwd=OWtRWTNkU2Frb2xZR3gxS2lKNG9HUT09",
+        "type": "Zoom"
+    },
+    "Біологія": {
+        "url": "https://meet.google.com/nbk-syyj-viz",
+        "type": "Meet"
+    },
+    "Всесвітня історія": {
+        "url": "https://meet.google.com/xzf-cekb-gmm",
+        "type": "Meet"
+    },
+    "Географія": {
+        "url": "https://meet.google.com/jww-yeza-puf?hs=179&authuser=0",
+        "type": "Meet"
+    },
+    "Геометрія": {
+        "url": "https://us04web.zoom.us/j/79403588169?pwd=34Qtubu2fWr0LZXOWXLDSsVlhgKovL.1",
+        "type": "Zoom"
+    },
+    "Інформатика 1гр": {
+        "url": "https://meet.google.com/apg-thxb-rrh",
+        "type": "Meet"
+    },
+    "Інформатика 2гр": {
+        "url": "https://meet.google.com/rmg-btwn-wuk",
+        "type": "Meet"
+    },
+    "Історія України": {
+        "url": "https://meet.google.com/xzf-cekb-gmm",
+        "type": "Meet"
+    },
+    "Економіка": {
+        "url": "https://us05web.zoom.us/j/82296776811?pwd=yhBbQ7v35n6WoGk9zBHUjFzs0SKca3.1",
+        "type": "Zoom",
+        "status": "not stable"
+    },
+    "Зарубіжна література": {
+        "url": "https://us05web.zoom.us/j/8041692232?pwd=cEhNN3FJSS9GODF4b1FYOVhhbXBhdz09",
+        "type": "Zoom"
+    },
+    "Правознавство": {
+        "url": "https://us05web.zoom.us/j/3530615203?pwd=NDlPMFdoRVQ1dWhKb3VlajVMbEhZZz09",
+        "type": "Zoom"
+    },
+    "Українська література": {
+        "url": "https://us05web.zoom.us/j/8390838434?pwd=cFppOHVpejEzZHNSbWlhYlY3VHRHdz09",
+        "type": "Zoom"
+    },
+    "Українська мова": {
+        "url": "https://us05web.zoom.us/j/8390838434?pwd=cFppOHVpejEzZHNSbWlhYlY3VHRHdz09",
+        "type": "Zoom"
+    },
+    "Хімія": {
+        "url": "https://meet.google.com/gev-auxm-zhd?authuser=0",
+        "type": "Meet"
+    },
+    "Християнська етика": {
+        "url": "https://meet.google.com/zoo-xdci-tki",
+        "type": "Meet"
+    },
+    "Фізика": {
+        "url": "https://us05web.zoom.us/j/7511933792?pwd=eVR4YzFHd09wOHVnL0xlbDBuZzBIQT09",
+        "type": "Zoom"
+    },
+    "Художня культура": {
+        "url": "none",
+        "type": "none"
+    }
+}
