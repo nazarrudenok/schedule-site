@@ -29,10 +29,17 @@ body {
     /* font-family: 'Nunito', sans-serif; */
     font-family: 'Jura', sans-serif;
     font-weight: 400;
+}
+
+main {
     padding: 0 25px;
 }
 
 a {
+    color: #d1ed24;
+}
+
+span {
     color: #d1ed24;
 }
 
@@ -133,3 +140,23 @@ img:hover {
     font-size: 22px;
     font-weight: 600;
 }
+
+.info {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    /* color: #77880f; */
+    background: #0e0e0e;
+    padding: 1px;
+}
+
+.info-text {
+    font-size: 18px;
+    font-weight: 500;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+/* 
+.lessons-container:nth-child(6) {
+    text-align: center;
+} */

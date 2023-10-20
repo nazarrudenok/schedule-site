@@ -43,6 +43,9 @@ fetch(jsonURL)
         dayCont.appendChild(lessonContainer);
       }
     }
+
+    var b = document.getElementsByClassName('lesson-item-number')[35];
+    b.remove();
   })
   .catch(error => {
     console.error("Error loading JSON:", error);

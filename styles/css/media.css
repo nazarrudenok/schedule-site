@@ -1,5 +1,5 @@
 @media (max-width: 480px) {
-    body {
+    main {
         padding: 0 12.5px;
     }
     
@@ -39,5 +39,12 @@
 
     .el-cont:last-child {
         margin-bottom: 10px;
+    }
+
+    .info-text {
+        font-size: 13.5px;
+        text-align: right;
+        padding-right: 12.5px;
+        padding-left: 12.5px;
     }
 }
