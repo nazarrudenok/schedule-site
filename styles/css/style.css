@@ -36,7 +36,7 @@ main {
 }
 
 a {
-    color: #ffffff;
+    color: #d1ed24;
 }
 
 span {
@@ -55,9 +55,7 @@ span {
     color: #d1ed24;
 }
 
-.title-group {
-    color: #d1ed24;
-}
+
 
 .date-container {
     display: flex;
@@ -70,6 +68,7 @@ span {
     justify-content: flex-end;
     font-size: 27px;
     color: #d1ed24;
+    font-weight: bold;
 }
 
 .days-container {
@@ -156,7 +155,22 @@ img:hover {
     padding-right: 25px;
     padding-left: 25px;
 }
-/* 
-.lessons-container:nth-child(6) {
-    text-align: center;
-} */
+
+.clock-cont {
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+    padding: 5px;
+    margin: 0 0 10px 0;
+    border-radius: 10px;
+    background: #0e0e0e;
+}
+
+.clock-cont:last-child {
+    margin: 0;
+}
+
+.schedule > .days-container {
+    display: flex;
+    justify-content: center;
+}
