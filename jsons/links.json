@@ -48,6 +48,10 @@
         "url": "https://us05web.zoom.us/j/3530615203?pwd=NDlPMFdoRVQ1dWhKb3VlajVMbEhZZz09",
         "type": "Zoom"
     },
+    "Трудове дівчата": {
+        "url": "https://us04web.zoom.us/j/6918433733?pwd=UHJ1NjlrUC8zclkyM1lIQzg0WDYwdz09",
+        "type": "Zoom"
+    },
     "Українська література": {
         "url": "https://us05web.zoom.us/j/8390838434?pwd=cFppOHVpejEzZHNSbWlhYlY3VHRHdz09",
         "type": "Zoom"
@@ -66,10 +70,6 @@
     },
     "Фізика": {
         "url": "https://us05web.zoom.us/j/7511933792?pwd=eVR4YzFHd09wOHVnL0xlbDBuZzBIQT09",
-        "type": "Zoom"
-    },
-    "Трудове дівчата": {
-        "url": "https://us04web.zoom.us/j/6918433733?pwd=UHJ1NjlrUC8zclkyM1lIQzg0WDYwdz09",
         "type": "Zoom"
     }
 }
